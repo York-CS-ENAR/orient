@@ -12,7 +12,7 @@ import com.orientechnologies.orient.core.record.impl.ODocument;
  * 
  * Run this code using the Orient.launch configuration
  * in Eclipse. (Right-click the .launch file and then select 
- * Run as > Voldemort). 
+ * Run as > Orient). 
  * 
  * A decent overview of OrientDB can be found at:
  * https://github.com/orientechnologies/orientdb/wiki/Document-Database
