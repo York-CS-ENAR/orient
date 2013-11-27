@@ -30,8 +30,8 @@ public class Orient {
 	}
 
 	// Connect to the orient database. You can (and may need to) change the path
-	private Connection connection = new Connection("local:/tmp/db/orient-footballers");
-//	private Connection connection = new Connection("local:C:/temp/databases/orient-footballers");
+//	private Connection connection = new Connection("local:/tmp/db/orient-footballers");
+	private Connection connection = new Connection("local:C:/temp/databases/orient-footballers");
 	
 	public void run() {
 		try {
